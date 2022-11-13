@@ -1,5 +1,4 @@
 FROM  jenkins/jenkins:lts-jdk11
-VOLUME /var/jenkins_home
 EXPOSE 8080
 EXPOSE 50000
 
